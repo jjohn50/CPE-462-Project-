@@ -1,0 +1,10 @@
+﻿  mirror.cpp
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(22,15): warning C4101: 'count2': unreferenced local variable
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(20,14): warning C4101: 'sum2': unreferenced local variable
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(20,8): warning C4101: 'sum1': unreferenced local variable
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(21,8): warning C4101: 'new_T': unreferenced local variable
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(22,7): warning C4101: 'count1': unreferenced local variable
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(21,22): warning C4101: 'delta_T': unreferenced local variable
+C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror.cpp(21,15): warning C4101: 'old_T': unreferenced local variable
+  LINK : C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror\Debug\mirror.exe not found or not built by the last incremental link; performing full link
+  mirror.vcxproj -> C:\Users\StevensUser\Documents\4th Semester\CPE462\final\mirror\Debug\mirror.exe
