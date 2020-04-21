@@ -1,0 +1,3 @@
+﻿  imageprocessing_filter.cpp
+C:\Users\justi\Desktop\HW_6\imageprocessing_filter.cpp(120,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  HW6Filter.vcxproj -> C:\Users\justi\Desktop\HW_6\HW6Filter\Debug\HW6Filter.exe
