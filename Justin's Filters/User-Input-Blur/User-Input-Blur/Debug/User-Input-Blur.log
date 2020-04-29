@@ -1,0 +1,22 @@
+﻿  Blur.cpp.cpp
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(27,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(27,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(27,31): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(27,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(27,38): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(27,38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(28,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(28,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(28,15): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(28,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(28,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(28,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(29,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(29,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(29,15): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(29,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(29,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(29,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(34,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\Blur Tool\Blur.cpp.cpp(132,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  User-Input-Blur.vcxproj -> C:\Users\justi\Desktop\CPE-462-Project-\Justin's Filters\User-Input-Blur\Debug\User-Input-Blur.exe
