@@ -1,0 +1,10 @@
+﻿  imageprocessing.cpp
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(25,6): warning C4101:  'm': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(23,15): warning C4101:  'count2': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(22,14): warning C4101:  'sum2': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(26,8): warning C4101:  'sum': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(22,20): warning C4101:  'burn': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(22,8): warning C4101:  'sum1': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(23,7): warning C4101:  'count1': unreferenced local variable
+C:\Users\Thrainio\source\repos\HW6\imageprocessing.cpp(25,9): warning C4101:  'n': unreferenced local variable
+  imageprocessing.vcxproj -> C:\Users\Thrainio\source\repos\imageprocessing\x64\Debug\imageprocessing.exe
